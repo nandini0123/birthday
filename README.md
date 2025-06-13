@@ -1,2 +1,2 @@
-# birthday
-my birthday
+# NamiTech
+ny project
